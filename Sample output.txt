@@ -1,0 +1,21 @@
+ 
+Sample Output:
+
+========================================
+       TEMPERATURE CONVERTER
+========================================
+Available units:
+C - Celsius
+F - Fahrenheit
+K - Kelvin
+
+Enter temperature: 45
+Convert from (C/F/K): f
+Convert to (C/F/K): c
+
+----------------------------------------
+Input:  45.00 F
+Output: 7.22 C
+Result: 45.00 degrees Fahrenheit = 7.22 degrees Celsius
+----------------------------------------
+
